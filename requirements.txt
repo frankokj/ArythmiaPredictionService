@@ -9,4 +9,3 @@ tensorflow
 opencv-python
 pandas
 matplotlib
-os
